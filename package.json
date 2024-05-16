@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@notionhq/client": "^2.2.15",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "googleapis": "^137.1.0"
+  }
+}
